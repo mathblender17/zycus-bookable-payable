@@ -1,0 +1,10 @@
+{
+  "file": "INV-03.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "UNRESOLVED_DOCUMENT",
+      "reason": "OCR evidence was insufficient to reconstruct a grounded, ERP-reconciling payable."
+    }
+  ]
+}
